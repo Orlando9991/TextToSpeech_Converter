@@ -1,0 +1,4 @@
+com\rewdev\tts\core\TextToSpeech.class
+com\rewdev\tts\PrimaryController.class
+com\rewdev\tts\App.class
+module-info.class
